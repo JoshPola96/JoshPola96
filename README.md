@@ -1,7 +1,9 @@
 # Hi 👋, I’m Joshua Peter Polaprayil
 
+<div align="center">
 🚀 **AI / ML Engineer · Full‑Stack AI Developer · Backend Engineer (AI‑focused)**
 🌍 Open to work globally · 💼 Open to freelance / contract roles · 🤝 Open to collaboration & mentorship
+</div>
 
 ---
 
