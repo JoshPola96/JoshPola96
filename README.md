@@ -9,9 +9,9 @@
 
 ## 🧠 About Me
 
-I’m a **junior AI/ML engineer with strong end‑to‑end system experience**, holding an MSc in **Big Data Analytics & Artificial Intelligence**. I specialize in building **production‑ready AI systems** — from research and model development to APIs, infrastructure, CI/CD, and deployment.
+I’m a junior AI/ML engineer with an MSc in Big Data Analytics & Artificial Intelligence, specializing in end-to-end production-ready AI systems. I excel at turning research into real-world applications — from model development and API design to infrastructure, CI/CD, and deployment.
 
-I’ve worked across **deep learning, agentic RAG systems, data engineering, and backend platforms**, and I currently operate as a **freelance AI engineer** under *Esimtime*, where I design and deliver real‑world AI solutions independently.
+I’ve delivered solutions across deep learning, agentic RAG systems, data engineering, and backend platforms, and currently operate as a freelance AI engineer under Esimtime, designing and deploying enterprise-grade AI solutions independently.
 
 ---
 
@@ -37,7 +37,7 @@ I’ve worked across **deep learning, agentic RAG systems, data engineering, and
   Customized YOLO‑based models, engineered training optimizations, and built API‑ready ML pipelines for real‑time insights.
 
 * **Junior Software Engineer — Financial Systems**
-  Contributed to enterprise bank loan decision engine using C#/.NET applications with SQL Server, debugging production workflows and supporting live deployments.
+  Contributed to enterprise loan decision engines using C#/.NET with SQL Server, debugging production workflows and supporting live deployments.
 
 ---
 
@@ -77,12 +77,11 @@ PostgreSQL · SQLite · SQL Server · Vector Databases
 
 My pinned repositories highlight **industry‑grade systems**, including:
 
-* Agentic RAG chatbots
-* Enterprise MLOps pipelines
-* Computer vision & deep learning systems
-* Full‑stack AI applications
-
-Each repository reflects **real design decisions, trade‑offs, and production considerations** — not toy demos.
+* Agentic RAG chatbots — multi-agent AI assistants with persistence and knowledge integration
+* Enterprise MLOps pipelines — scalable, automated AI workflows
+* Computer vision & deep learning systems — real-time detection, tracking, and predictive modeling
+* Full-stack AI applications — production-grade systems with API, backend, and frontend integration
+* Each repository reflects **real design decisions, trade‑offs, and production considerations** — not toy demos.
 
 ---
 
