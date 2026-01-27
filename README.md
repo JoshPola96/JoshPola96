@@ -1,7 +1,7 @@
 # Hi 👋, I’m Joshua Peter Polaprayil
 
 <div align="center">
-🚀 **AI / ML Engineer · Full‑Stack AI Developer · Backend Engineer (AI/Data‑focused)**
+🚀 **AI Engineer · Full-Stack Developer · MLOps Enthusiast**
 🌍 Open to work globally · 💼 Open to freelance / contract / full-time roles · 🤝 Open to collaboration & mentorship
 </div>
 
@@ -9,26 +9,28 @@
 
 ## 🧠 About Me
 
-I’m a junior AI/ML engineer with an MSc in Big Data Analytics & Artificial Intelligence, specializing in end-to-end production-ready AI systems. I excel at turning research into real-world applications — from model development and API design to infrastructure, CI/CD, and deployment.
+I am a results-driven **AI/ML Engineer** with an MSc in Big Data Analytics & AI, focused on bridging the gap between research models and production systems. I don't just build models; I build the API, the infrastructure, and the deployment pipelines to make them work in the real world.
 
-I’ve delivered solutions across deep learning, agentic RAG systems, data engineering, and backend platforms, and currently operate as a freelance AI engineer under Esimtime, designing and deploying enterprise-grade AI solutions independently.
-
----
-
-## 💼 What I Do
-
-* Design and build **end‑to‑end AI/ML systems** (research → model → API → deployment)
-* Develop **agentic & RAG‑based architectures** using LangChain, LangGraph, and custom orchestration
-* Build **scalable backend services** with FastAPI, Flask, NestJS, and .NET
-* Implement **MLOps pipelines** with Docker, CI/CD, monitoring, and retraining strategies
-* Work hands‑on with **computer vision, NLP, and deep learning** in real production contexts
+Most recently, I operated as a **Freelance AI Engineer** for **EsimTime**, where I solo-architected and deployed a fully autonomous customer support agent handling global eSIM commerce. I am now looking to bring this hands-on production experience to a **full-time engineering team or independent role** where I can contribute immediately and grow my career.
 
 ---
 
-## 🧭 Experience Highlights (Selected)
+## 💼 What I Bring to a Team
 
-* **Freelance AI Engineer — Esimtime**
-  Architected and delivered a production‑grade multi‑agent AI customer assistant with RAG, APIs, CI/CD, Dockerized zero‑downtime builds, and secure deployment.
+* **Production Engineering:** I build systems with Docker, CI/CD (GitHub Actions), and robust error handling—not just Jupyter notebooks.
+* **Modern Agentic AI:** Deep experience with **LangGraph**, **Gemini Flash 2.0**, and **RAG** architectures.
+* **Full-Stack Integration:** I connect AI to the real world using **FastAPI**, **PostgreSQL**, and **Redis**.
+* **Global Mindset:** Experience working with international clients and delivering enterprise-grade documentation.
+
+---
+
+## 🧭 Project Highlights
+
+* **Freelance AI Engineer — EsimTime** (2024)
+  * *The Challenge:* Automate customer support for a global eSIM provider across Telegram & WhatsApp.
+  * *The Solution:* Built a production-grade autonomous agent using **LangGraph**, **Qdrant**, and **Gemini 2.0**.
+  * *Key Achievement:* Achieved **<3s latency** for complex queries and implemented **identity-aware authentication** without human intervention.
+  * 👉 **[View the Architecture Case Study](https://github.com/JoshPola96/enterprise-ai-agent-architecture-esim)**
 
 * **Enterprise‑Scale MLOps Project (Open Source)**
   Built a self‑healing bankruptcy prediction system with automated training, monitoring, and retraining pipelines.
@@ -70,6 +72,7 @@ Streamlit · React · TypeScript · HTML · CSS · Bootstrap
 ### 🗄️ Databases
 
 PostgreSQL · SQLite · SQL Server · Vector Databases
+
 
 ---
 
