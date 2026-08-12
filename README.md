@@ -17,6 +17,7 @@ Every repository here is labelled with its origin, because context changes what 
 | **Production case study** | A system that ran live with real users. Architecture and trade-offs documented; source is proprietary. |
 | **Certification capstone** | Peer-reviewed submission assessed against a published rubric — DataTalksClub Zoomcamps, Coursera specializations. |
 | **Timeboxed assessment** | A technical take-home, 3 hours to 5 days. Each carries a *Scope & trade-offs* section: what was in scope, what I cut, and what I'd change with more time. |
+| **Internship coursework** | Work from my Data Science & ML internship at Irohub Infotech (2024–25), published here after it ended. |
 | **Academic** | MSc coursework and dissertation artifacts, published as-is. |
 | **Personal project** | Built on my own time. Complete rather than tended, unless it says otherwise. |
 
