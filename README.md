@@ -14,17 +14,31 @@ Every repository here is labelled with its origin, because context changes what 
 
 | Label | What it means |
 |---|---|
-| **Production case study** | A system running live with real users. Architecture and tradeoffs documented; source is proprietary. |
+| **Production case study** | A system that ran live with real users. Architecture and trade-offs documented; source is proprietary. |
 | **Certification capstone** | Peer-reviewed submission assessed against a published rubric — DataTalksClub Zoomcamps, Coursera specializations. |
-| **Timeboxed assessment** | A technical take-home, 3 hours to 5 days. Each carries a *Scope & tradeoffs* section: what was in scope, what I cut, and what I'd change with more time. |
+| **Timeboxed assessment** | A technical take-home, 3 hours to 5 days. Each carries a *Scope & trade-offs* section: what was in scope, what I cut, and what I'd change with more time. |
 | **Academic** | MSc coursework and dissertation artifacts, published as-is. |
-| **Personal project** | Built on my own time, actively maintained. |
+| **Personal project** | Built on my own time. Complete rather than tended, unless it says otherwise. |
 
-With one exception, these repos aren't commercial products with paying users behind them — they're assessments, capstones, coursework and personal builds. The Esimtime work *is* live in production, but what's published here is an architecture write-up, not the source.
+### These are dated artifacts, not maintained software
 
-**On running them:** the older projects carry a dated dependency note. Most were written between 2021 and 2025 with unpinned requirements, and the ecosystem has moved — pandas 3.0, numpy 2.5, pytest 9 and Airflow 3.x have all landed since. A clean install today may not resolve to working versions. Where a build is currently red I've said so in that repo's README, along with the actual diagnosis rather than a shrug. Happy to bring any of them current on request.
+Every repository states the year it was built. Most were written between 2021 and 2025, against the libraries of that moment, with unpinned dependencies.
 
-I'd rather you know all this going in. What this profile is a record of: how I scope a problem, what I choose to cut when the clock is real, and whether I can say why.
+Python's ML ecosystem does not hold still. Since then pandas, numpy, PyTorch, Airflow and MLflow have all shipped breaking major versions. A repository last worked on in 2025 that no longer installs cleanly in 2026 is behaving exactly the way an unmaintained repository behaves. **That is a fact about the calendar, not a finding about the engineering.**
+
+Where a build is currently failing, I've said so in that repository's README — along with the specific cause, the specific line, and the fix. Nothing is hidden behind a green badge.
+
+### None of this is commercial software
+
+No revenue depends on any of it. No users are supported, no SLA exists, and nobody is paying for it to keep running. These are assessments, capstones, coursework and personal builds, published so the work is inspectable. The Esimtime platform *was* live and commercial, but what is published here is an architecture write-up — not the source, and not a running system.
+
+### What these repositories can actually tell you
+
+How a problem was scoped. What was cut, and why. Whether the trade-off can be articulated afterwards. That is what each README documents, and it's the part that doesn't expire.
+
+If you want to see how I write code today, look at what carries a current date. Older repositories show where I was, not where I am — which is true of everyone's.
+
+I'm glad to bring any of this current if it's genuinely useful to you. Ask, and I will.
 
 ---
 
