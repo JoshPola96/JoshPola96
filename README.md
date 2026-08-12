@@ -1,6 +1,6 @@
 # Hi 👋, I'm Joshua Peter Polaprayil
 
-**AI/ML Engineer · MSc Big Data Analytics & AI · Kerala, India — open to remote worldwide**
+**AI/ML Engineer · MSc Big Data Analytics & AI · Kottayam, Kerala, India — available now, open to remote worldwide**
 
 I build AI systems that survive contact with production: the model, the API around it, the infrastructure under it, and the monitoring that tells you when it breaks.
 
@@ -28,9 +28,9 @@ I'd rather you know all this going in. What this profile is a record of: how I s
 
 ---
 
-## 🚀 Current work
+## 🚀 Most recent role
 
-**Full-Stack AI Engineer — Esimtime** *(Jul 2025 – present · remote, Delaware US)*
+**Full-Stack AI Engineer — Esimtime** *(Jul 2025 – Aug 2026 · remote, US)* — **now concluded; open to new work**
 
 Sole architect of a conversational commerce platform running the full eSIM lifecycle on WhatsApp and Telegram.
 
