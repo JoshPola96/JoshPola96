@@ -22,7 +22,9 @@ Every repository here is labelled with its origin, because context changes what 
 
 With one exception, these repos aren't commercial products with paying users behind them — they're assessments, capstones, coursework and personal builds. The Esimtime work *is* live in production, but what's published here is an architecture write-up, not the source.
 
-I'd rather you know that going in. What this profile is a record of: how I scope a problem, what I choose to cut when the clock is real, and whether I can say why.
+**On running them:** the older projects carry a dated dependency note. Most were written between 2021 and 2025 with unpinned requirements, and the ecosystem has moved — pandas 3.0, numpy 2.5, pytest 9 and Airflow 3.x have all landed since. A clean install today may not resolve to working versions. Where a build is currently red I've said so in that repo's README, along with the actual diagnosis rather than a shrug. Happy to bring any of them current on request.
+
+I'd rather you know all this going in. What this profile is a record of: how I scope a problem, what I choose to cut when the clock is real, and whether I can say why.
 
 ---
 
@@ -39,6 +41,14 @@ Sole architect of a conversational commerce platform running the full eSIM lifec
 * Ranked **Top 5 AI company on F6S** (May 2026) and Top 5 of 39 at an investor showcase
 
 👉 **[Read the architecture case study](https://github.com/JoshPola96/enterprise-ai-agent-architecture-esim)**
+
+---
+
+## 🔨 Currently building
+
+**[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** — a ReAct agent over your own documents, with no agent framework underneath. Six purpose-built tools, parallel execution, hybrid BM25+FAISS retrieval with cross-encoder reranking, and 429 offline tests. Ask a question about a spreadsheet in one language, get an answer and a chart back in another. Active work.
+
+**Multi-agent narrative simulation (CrewAI)** — next up. A crew of adversarial agents improvising a story against each other, to see how far coherent long-form narrative survives when no single agent holds the plot. Mostly an excuse to push multi-agent coordination somewhere it isn't usually pointed.
 
 ---
 
@@ -86,7 +96,11 @@ Externally assessed, peer-reviewed against published rubrics:
 
 Nine years across database engineering (SQL Server, ETL for US real estate), enterprise .NET (loan assessment migration at Permanent TSB, Dublin), early-stage backend (NestJS, Netherlands), and computer vision (YOLOv7 for ADAS at RoshAI).
 
-Between the Dublin role and the return to tech I worked airside logistics at Dublin Airport and HACCP-regulated manufacturing in Ireland, self-funding relocation and retraining. That's on the CV deliberately — it's where the execution discipline came from.
+Between the Dublin role and the return to tech I worked airside logistics at Dublin Airport (Garda-vetted, blue badge) and HACCP-regulated manufacturing in Ireland, self-funding relocation and retraining across 12-hour rotating night shifts. That's on the CV deliberately — it's where the execution discipline came from.
+
+Also holds PG diplomas in Airport Cargo Management and Logistics & Supply Chain Management, which is how the eSIM-commerce domain stopped being unfamiliar territory.
+
+**Languages** English (native) · Malayalam (native) · Hindi, Tamil, German (beginner)
 
 ---
 
