@@ -61,7 +61,7 @@ Sole architect of a conversational commerce platform running the full eSIM lifec
 
 ## 🔨 Currently building
 
-**[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** — a ReAct agent over your own documents, with no agent framework underneath. Six purpose-built tools, parallel execution, hybrid BM25+FAISS retrieval with cross-encoder reranking, and 429 offline tests. Ask a question about a spreadsheet in one language, get an answer and a chart back in another. Active work.
+**[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** — an autonomous analyst for the messy exports people actually have. It parses every table into a queryable dataframe and **profiles it for the flaws that silently corrupt an aggregate** — a `TOTAL` row loaded as data, four spellings of one region, the same measure present twice in different currencies — then states them beside the figure they affect. Every number must come from a tool call; arithmetic in prose is forbidden, because a number a model produced in its own head is a number nobody can check. ReAct loop, no framework underneath, 558 offline tests. Active work.
 
 **Multi-agent narrative simulation (CrewAI)** — next up. A crew of adversarial agents improvising a story against each other, to see how far coherent long-form narrative survives when no single agent holds the plot. Mostly an excuse to push multi-agent coordination somewhere it isn't usually pointed.
 
@@ -71,7 +71,7 @@ Sole architect of a conversational commerce platform running the full eSIM lifec
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** | ReAct agent with no framework underneath — six tools, parallel execution, hybrid BM25+FAISS retrieval, 429 offline tests | FastAPI · FAISS · Redis · OpenAI/Gemini |
+| **[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** | Profiles your data for the flaws that corrupt totals, then forbids the model from doing arithmetic in prose — every figure traces to a tool call. 558 offline tests | FastAPI · FAISS · Redis · OpenAI/Gemini |
 | **[company-bankruptcy-prediction-mlops](https://github.com/JoshPola96/company-bankruptcy-prediction-mlops)** | Drift-triggered automatic retraining — Evidently detects degradation, Airflow retrains, MLflow gates promotion | Airflow · MLflow · Terraform · AWS |
 | **[rppg-monitor](https://github.com/JoshPola96/rppg-monitor)** | Heart rate, HRV and respiration from webcam video alone, streamed over WebSocket | MediaPipe · OpenCV · FastAPI |
 | **[heart-attack-data-pipeline](https://github.com/JoshPola96/heart-attack-data-pipeline)** | Full ELT warehouse — infrastructure-as-code through to dashboard, nothing manual | GCP · dbt · BigQuery · Airflow |
