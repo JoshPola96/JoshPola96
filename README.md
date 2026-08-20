@@ -59,9 +59,9 @@ Sole architect of a conversational commerce platform running the full eSIM lifec
 
 ---
 
-## 🔨 Currently building
+## 🔨 Recent and next
 
-**[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** — an autonomous analyst for the messy exports people actually have. It parses every table into a queryable dataframe and **profiles it for the flaws that silently corrupt an aggregate** — a `TOTAL` row loaded as data, four spellings of one region, the same measure present twice in different currencies — then states them beside the figure they affect. Every number must come from a tool call; arithmetic in prose is forbidden, because a number a model produced in its own head is a number nobody can check. ReAct loop, no framework underneath, 558 offline tests. Active work.
+**[ai-data-agent](https://github.com/JoshPola96/ai-data-agent)** — an autonomous analyst for the messy exports people actually have. It parses every table into a queryable dataframe and **profiles it for the flaws that silently corrupt an aggregate** — a `TOTAL` row loaded as data, four spellings of one region, the same measure present twice in different currencies — then states them beside the figure they affect. Every number must come from a tool call; arithmetic in prose is forbidden, because a number a model produced in its own head is a number nobody can check. ReAct loop, no framework underneath, 558 offline tests. Complete.
 
 **Multi-agent narrative simulation (CrewAI)** — next up. A crew of adversarial agents improvising a story against each other, to see how far coherent long-form narrative survives when no single agent holds the plot. Mostly an excuse to push multi-agent coordination somewhere it isn't usually pointed.
 
@@ -104,6 +104,12 @@ Externally assessed, peer-reviewed against published rubrics:
 * **[Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2025/c8e8b5ba3fbcfde9632b6c623269ae4bbde4a2d2.pdf)** — DataTalksClub, Apr 2025
 * **[dbt Fundamentals](https://credentials.getdbt.com/38b4d310-089d-4261-9ac6-9487f2f820dc)** — dbt Labs, Feb 2025
 * **[Web Design for Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/F2JC63D3GSUT)** — University of Michigan / Coursera, Sep 2023
+
+---
+
+## ✍️ Writing
+
+**[The Architecture of Trust: What a Cyberattacking AI and a Grafana Experiment Taught Me About Governance](https://www.linkedin.com/pulse/architecture-trust-what-cyberattacking-ai-grafana-me-joshua-l8tjc/)** — written after a real exploitation attempt against the production agent I built, on what it changed about where I put trust boundaries and how I think about governance.
 
 ---
 
