@@ -115,7 +115,7 @@ Externally assessed, peer-reviewed against published rubrics:
 
 ## 🛠️ Background
 
-Nine years across database engineering (SQL Server, ETL for US real estate), enterprise .NET (loan assessment migration at Permanent TSB, Dublin), early-stage backend (NestJS, Netherlands), and computer vision (YOLOv7 for ADAS at RoshAI).
+Around four years across database engineering (SQL Server, ETL for US real estate), enterprise .NET (loan assessment migration at Permanent TSB, Dublin), early-stage backend (NestJS, Netherlands), and computer vision (YOLOv7 for ADAS at RoshAI).
 
 Between the Dublin role and the return to tech I worked airside logistics at Dublin Airport (Garda-vetted, blue badge) and HACCP-regulated manufacturing in Ireland, self-funding relocation and retraining across 12-hour rotating night shifts. That's on the CV deliberately — it's where the execution discipline came from.
 
